@@ -1,6 +1,6 @@
 {
   "name": "react-native-network-proxy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Network proxy for react-native applications",
   "main": "index.js",
   "author": "Kureev Alexey <a.g.kureev@gmail.com>",
