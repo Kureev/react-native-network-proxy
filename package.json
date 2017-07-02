@@ -1,0 +1,15 @@
+{
+  "name": "react-native-network-proxy",
+  "version": "1.0.0",
+  "description": "Network proxy for react-native applications",
+  "main": "index.js",
+  "author": "Kureev Alexey <a.g.kureev@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "react-native-network-proxy": "./server.js"
+  },
+  "dependencies": {
+    "prettyjson": "^1.2.1",
+    "ws": "^3.0.0"
+  }
+}
