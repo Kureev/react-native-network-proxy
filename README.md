@@ -1,8 +1,8 @@
 ## 🛠 Network debug tool for react-native
 
-![react-native-network-proxy](http://i.imgur.com/kNtLzUr.jpg)
+Ever struggled with debugging network requests in React Native? Prefer console tools over GUI solutions (like [reactotron](https://github.com/infinitered/reactotron))?
 
-Ever struggled with debugging network requests in React Native? Prefer console tools instead of GUI solutions (like [reactotron](https://github.com/infinitered/reactotron))?
+![react-native-network-proxy](http://i.imgur.com/kNtLzUr.jpg)
 
 ## Getting started
 
