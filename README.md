@@ -13,7 +13,7 @@ Ever struggled with debugging network requests in React Native? Prefer console t
   ```
   or 
   ```bash
-  $ npm i react-native-netowrk-proxy --save
+  $ npm i react-native-network-proxy --save
   ```
   
 - Add `react-native-network-proxy` to your react-native application:
